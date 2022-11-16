@@ -24,4 +24,4 @@ This repository contains all projects on python programming language Endorsed by
 - This project consists of classses in python.
 
 ### Author :black_nib:
-[**Abiodun Shittu**](https://github.com/Abiodun-Shittu)
+[**Agbegbedia Oghenemaro**](https://github.com/OghenemaroAgbegbedia)
