@@ -7,7 +7,7 @@ his directory contains *Data Structures* in  python programming language
 - Write a function that computes the square value of all integers of a matrix.
 
 ### 1. Search and replace
-- Write afunction that replaces all occurrences of an element by another in a new list.
+- Write a function that replaces all occurrences of an element by another in a new list.
 
 ### 2. Unique addition
 - Write a function that adds all unique integers in a list (only once for each integer).
